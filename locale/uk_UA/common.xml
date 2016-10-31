@@ -39,7 +39,7 @@
 	<message key="common.add">Додати</message>
 	<message key="common.addSelf">Додати себе</message>
 	<message key="common.all">Всі</message>
-	<message key="common.alphaList"><![CDATA[<p>А Б В Г Ґ Д Е Є Ж З И І Ї К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ь Ю Я</p>]]></message>
+	<message key="common.alphaList"><![CDATA[А Б В Г Ґ Д Е Є Ж З И І Ї К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ь Ю Я]]></message>
 	<message key="common.alreadyAssigned">Призначений</message>
 	<message key="common.altText">Альтернативний текст</message>
 	<message key="common.altTextInstructions"><![CDATA[<p>Будь ласка, додайте до цього зображення альтернативний текст, щоб підвищити доступність для користувачів, які використовують текстові браузери та допоміжні пристрої.</p>]]></message>
